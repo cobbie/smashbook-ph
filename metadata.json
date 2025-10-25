@@ -1,0 +1,5 @@
+{
+  "name": "SmashBook Badminton Reservation",
+  "description": "An online reservation system for booking badminton courts in the Philippines. It features separate views for customers and administrators, a simulated payment flow, and user authentication.",
+  "requestFramePermissions": []
+}
